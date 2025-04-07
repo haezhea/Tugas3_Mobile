@@ -1,0 +1,6 @@
+com.example.jel.test.app-tracing-1.2.0-0 C:\Users\Holil\.gradle\caches\transforms-4\dbad2d33712352dae5a61ed4fe0672be\transformed\tracing-1.2.0\res
+com.example.jel.test.app-core-1.6.1-1 C:\Users\Holil\.gradle\caches\transforms-4\ffbc8b018de3dd0d7996a26989e2c300\transformed\core-1.6.1\res
+com.example.jel.test.app-androidTest-2 C:\d100\Koding\jel\app\build\generated\res\resValues\androidTest\debug
+com.example.jel.test.app-mergeDebugAndroidTestResources-3 C:\d100\Koding\jel\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.jel.test.app-mergeDebugAndroidTestResources-4 C:\d100\Koding\jel\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.jel.test.app-debugAndroidTest-5 C:\d100\Koding\jel\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
