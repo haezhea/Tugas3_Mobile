@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.jel.app-mergeDebugResources-31:/layout/activity_login.xml",
+        "source": "com.example.jel.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Holil\\.gradle\\daemon\\8.6\\com.example.jel.app-mergeDebugResources-31:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Holil\\.gradle\\daemon\\8.6\\com.example.jel.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.example.jel.app-mergeDebugResources-31:/layout/activity_register.xml",
+        "source": "com.example.jel.app-main-34:/layout/activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Holil\\.gradle\\daemon\\8.6\\com.example.jel.app-mergeDebugResources-31:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Holil\\.gradle\\daemon\\8.6\\com.example.jel.app-main-34:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Holil\\.gradle\\daemon\\8.6\\com.example.jel.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Holil\\.gradle\\daemon\\8.6\\com.example.jel.app-main-34:\\layout\\activity_main.xml"
+    }
+]
