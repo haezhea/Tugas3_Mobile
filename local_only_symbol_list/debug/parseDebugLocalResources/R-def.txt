@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnLogin
+id buttonRegister
+id dontHaveTV
+id inputConfirmPassword
+id inputEmail
+id inputEmailLogin
+id inputPassLogin
+id inputPassword
+id inputUsername
+id main
+id textView2
+layout activity_login
+layout activity_main
+layout activity_register
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Jel
+style CustomEditText
+style Theme.Jel
+xml backup_rules
+xml data_extraction_rules
