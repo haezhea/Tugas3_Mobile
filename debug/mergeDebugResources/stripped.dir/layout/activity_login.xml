@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EBCBFF"
+    tools:context=".LoginActivity">
+
+    <EditText
+        android:id="@+id/inputEmailLogin"
+        style="@style/CustomEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginHorizontal="50dp"
+        android:layout_marginTop="288dp"
+        android:textColor="@color/black"
+        android:ems="10"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:textColorHint="#9071A3" />
+
+    <EditText
+        android:id="@+id/inputPassLogin"
+        style="@style/CustomEditText"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/inputEmailLogin"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginHorizontal="50dp"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:textColorHint="#9071A3" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/inputPassLogin"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginHorizontal="100dp"
+        android:layout_marginTop="32dp"
+        android:backgroundTint="#6750A3"
+        android:text="Login" />
+
+    <TextView
+        android:id="@+id/dontHaveTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnLogin"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginHorizontal="100dp"
+        android:layout_marginTop="40dp"
+        android:clickable="true"
+        android:onClick="onClickRegister"
+        android:text="Don't have an account?"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        tools:layout_editor_absoluteX="176dp"
+        tools:layout_editor_absoluteY="546dp" />
+
+</RelativeLayout>
